@@ -1,0 +1,29 @@
+{
+  "name": "keyauth-js-module",
+  "version": "1.0.1",
+  "description": "KeyAuth Authentication JS Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazk5145/KeyAuth-JS-Module.git"
+  },
+  "keywords": [
+    "keyauth",
+    "js"
+  ],
+  "type": "module",
+  "author": "mazkdevf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazk5145/KeyAuth-JS-Module/issues"
+  },
+  "homepage": "https://github.com/mazk5145/KeyAuth-JS-Module#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "querystring": "^0.2.1",
+    "systeminformation": "^5.11.14"
+  }
+}
